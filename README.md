@@ -2,17 +2,14 @@
 
 تطبيق تلفزيوني ذكي لأجهزة Android TV وهواتف Android.
 
-## Features
-- Arabic interface
-- M3U playlist support
-- Media3 video player
-- Favorites
-- Channel search
-- Sports and entertainment
+## المزايا الحالية
+- واجهة عربية داكنة بلمسات ذهبية.
+- أقسام أولية للرياضة والقنوات الجزائرية والعربية والعالمية.
+- خانة لإدخال رابط قائمة M3U.
+- تجهيز أولي للبناء التلقائي عبر GitHub Actions.
 
-## Platforms
-- Android TV
-- Android Phone
+## تنبيه
+استخدم فقط قوائم وروابط البث التي تملك حق استخدامها أو التي يتيحها مزودها قانونياً. لا يتضمن المشروع قنوات مدفوعة أو روابط بث غير مرخصة.
 
-## Version
-1.0.0
+## البناء
+يبدأ البناء تلقائياً عند رفع الملفات إلى فرع `main`، أو يدوياً من تبويب Actions عبر `Build OUNISSI OUSSMA TV APK`.
